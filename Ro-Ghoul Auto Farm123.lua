@@ -32,7 +32,7 @@ local myData = loadstring(game:HttpGet("loadstring(game:HttpGetAsync("https://ra
         ["Eto Yoshimura"] = false,
         ["Koutarou Amon"] = false,
         ["Nishiki Nishio"] = false,
-	    ["Touka Kirishima"] = false
+	["Touka Kirishima"] = false
     },
     DistanceFromNpc = 5,
     DistanceFromBoss = 8,
@@ -48,7 +48,7 @@ local array = {
         ["Eto Yoshimura"] = 1250,
         ["Koutarou Amon"] = 750,
         ["Nishiki Nishio"] = 250,
-	    ["Touka Kirishima"] =250
+	["Touka Kirishima"] =250
     },
 
     npcs = {["Aogiri Members"] = "GhoulSpawns", Investigators = "CCGSpawns", Humans = "HumanSpawns"},
